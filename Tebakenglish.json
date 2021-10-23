@@ -1,0 +1,104 @@
+[
+
+    {
+	    "level": "Level 1"
+		"eng": "Accept"
+		"id": "Menerima"
+	    }, 
+    {
+	    "level": "Level 2"
+		"eng": "Accompany"
+		"id": "Menemani"
+	    }, 
+    {
+	    "level": "Level 3"
+		"eng": "Accuse"
+		"id": "Menuduh"
+	    }, 
+    {
+	    "level": "Level 4"
+		"eng": "Achieve"
+		"id": "Mencapai"
+	    }, 
+    {
+	    "level": "Level 5"
+		"eng": "Add"
+		"id": "Menambahkan"
+	    }, 
+    {
+	    "level": "Level 6"
+		"eng": "Admire"
+		"id": "Mengagumi"
+	    }, 
+    {
+	    "level": "Level 7"
+		"eng": "Admit"
+		"id": "Mengakui"
+	    }, 
+    {
+	    "level": "Level 8"
+		"eng": "Advise"
+		"id": "Menasehati"
+	    }, 
+    {
+	    "level": "Level 9"
+		"eng": "Affect"
+		"id": "Mempengaruhi"
+	    }, 
+    {
+	    "level": "Level 10"
+		"eng": "Agree"
+		"id": "Setuju"
+	    }, 
+    {
+	    "level": "Level 11"
+		"eng": "Allow"
+		"id": "Mengizinkan"
+	    }, 
+    {
+	    "level": "Level 12"
+		"eng": "Answer"
+		"id": "Menjawab"
+	    }, 
+    {
+	    "level": "Level 13"
+		"eng": "Approve"
+		"id": "Menyetujui"
+	    }, 
+    {
+	    "level": "Level 14"
+		"eng": "Arrive"
+		"id": "Tiba"
+	    }, 
+    {
+	    "level": "Level 15"
+		"eng": "Ask"
+		"id": "Bertanya"
+	    }, 
+    {
+	    "level": "Level 16"
+		"eng": "Attack"
+		"id": "Menyerang"
+	    }, 
+    {
+	    "level": "Level 17"
+		"eng": "Attend"
+		"id": "Menghadiri"
+	    }, 
+    {
+	    "level": "Level 18"
+		"eng": "Avoid"
+		"id": "Menghindari"
+	    }, 
+    {
+	    "level": "Level 19"
+		"eng": "Believe"
+		"id": "Percaya"
+	    }, 
+    {
+	    "level": "Level 20"
+		"eng": "Bet"
+		"id": "Bertaruh"
+	    }, 
+
+] 
