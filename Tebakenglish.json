@@ -119,6 +119,66 @@
 	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
 		"eng": "Bet",
 		"id": "Bertaruh"
+	    },
+    {
+	    "level": "Level 21",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Bite",
+		"id": "Menggigit"
+	    }, 
+    {
+	    "level": "Level 22",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Blame",
+		"id": "Menyalahkan"
+	    }, 
+    {
+	    "level": "Level 23",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Blow",
+		"id": "Meniup"
+	    }, 
+    {
+	    "level": "Level 24",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Borrow",
+		"id": "Meminjam"
+	    }, 
+    {
+	    "level": "Level 25",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Bother",
+		"id": "Mengganggu"
+	    }, 
+    {
+	    "level": "Level 26",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Bring",
+		"id": "Membawa"
+	    }, 
+    {
+	    "level": "Level 27",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Brush",
+		"id": "Menyikat"
+	    }, 
+    {
+	    "level": "Level 28",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Build",
+		"id": "Membangun"
+	    }, 
+    {
+	    "level": "Level 29",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Burn",
+		"id": "Membakar"
+	    }, 
+    {
+	    "level": "Level 30",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Buy",
+		"id": "Membeli"
 	    }
 
 ] 
