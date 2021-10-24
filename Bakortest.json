@@ -1,0 +1,172 @@
+[
+
+  {
+	   "level" : "Level 1",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "안녕 하세요",
+       "romanized" : "Annyeong haseyo",
+       "indo" : "Halo" 
+       },
+  {
+	   "level" : "Level 2",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "안녕히 계세요",
+       "romanized" : "Annyeonghi kyeseyo",
+       "indo" : " Selamat tinggal" 
+       },
+  {
+	   "level" : "Level 3",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "고맙습니다",
+       "romanized" : "Komapseumnida",
+       "indo" : "Terima kasih" 
+       },
+  {
+	   "level" : "Level 4",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "감사합니다",
+       "romanized" : "Kamsahamnida",
+       "indo" : "Terima kasih" 
+       },
+  {
+	   "level" : "Level 5",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "죄송합니다 ",
+       "romanized" : "Choesonghamnida",
+       "indo" : "Maaf" 
+       },
+  {
+	   "level" : "Level 6",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "미안합니다",
+       "romanized" : "Mianhamnida",
+       "indo" : "Maaf" 
+       },
+  {
+	   "level" : "Level 7",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "아니요 ",
+       "romanized" : "Aniyo",
+       "indo" : "Tidak" 
+       },
+  {
+	   "level" : "Level 8",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "안녕 하십니까 ?",
+       "romanized" : "Annyeong hasimnikka",
+       "indo" : "Apa kabar" 
+       },
+  {
+	   "level" : "Level 9",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "축하합니다",
+       "romanized" : "Chukhahamnida",
+       "indo" : "Selamat" 
+       },
+  {
+	   "level" : "Level 10",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "괜찮아요 ",
+       "romanized" : "Gwaenchanayo",
+       "indo" : "Tidak apa-apa" 
+       },
+  {
+	   "level" : "Level 11",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "안돼요" ,
+       "romanized" : "Andwaeyo",
+       "indo" : "Jangan" 
+       },
+  {
+	   "level" : "Level 12",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "거짓말 ",
+       "romanized" : "Keojitmal",
+       "indo" : "Bohong" 
+       },
+   {
+	   "level" : "Level 13",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : " 생일 축하합니다" ,
+       "romanized" : "Saengil chuka hamnida",
+       "indo" : "Selamat ulang tahun" 
+       },
+  {
+	   "level" : "Level 14",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "난 널 사랑해",
+       "romanized" : "Choaheyo",
+       "indo" : "Aku suka kamu" 
+       },
+  {
+	   "level" : "Level 15",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "사랑해",
+       "romanized" : "saranghae",
+       "indo" : "Aku mencintaimu" 
+       },
+   {
+	   "level" : "Level 16",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "여보" ,
+       "romanized" : "yeobo",
+       "indo" : "Sayang" 
+       },
+  {
+	   "level" : "Level 17",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "보고 싶어",
+       "romanized" : "bogo sipeo",
+       "indo" : "Aku rindu kamu" 
+       },
+  {
+	   "level" : "Level 18",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "배고프다",
+       "romanized" : "Paegopheuda",
+       "indo" : "Perut aku lapar" 
+       },
+   {
+	   "level" : "Level 19",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "화이팅" ,
+       "romanized" : "hwaiting",
+       "indo" : "Semangat" 
+       },
+  {
+	   "level" : "Level 20",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "형",
+       "romanized" : "Hyeong",
+       "indo" : "Abang" 
+       },
+  {
+	   "level" : "Level 21",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "누나",
+       "romanized" : "Noona",
+       "indo" : "kakak" 
+       },
+  {
+	   "level" : "Level 22",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "동생 ",
+       "romanized" : "Dongsaeng",
+       "indo" : "Adik" 
+       },
+   {
+	   "level" : "Level 23",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "아빠" ,
+       "romanized" : "appa",
+       "indo" : "Ayah" 
+       },
+  {
+	   "level" : "Level 24",
+       "img" : "https://telegra.ph/file/0b6366cce29f1dbb09eb6.jpg", 
+       "hanggul" : "어머니",
+       "romanized" : "Omoni",
+       "indo" : "Ibu" 
+       }
+	   
+] 
