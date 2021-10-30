@@ -179,6 +179,66 @@
 	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
 		"eng": "Buy",
 		"id": "Membeli"
+	    },
+    {
+	    "level": "Level 31",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Call",
+		"id": "Memanggil"
+	    }, 
+    {
+	    "level": "Level 32",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Care",
+		"id": "Peduli"
+	    }, 
+    {
+	    "level": "Level 33",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Catch",
+		"id": "Menangkap"
+	    }, 
+    {
+	    "level": "Level 34",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Chew",
+		"id": "Mengunyah"
+	    }, 
+    {
+	    "level": "Level 35",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Choose",
+		"id": "Memilih"
+	    }, 
+    {
+	    "level": "Level 36",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Clean",
+		"id": "Membersihkan"
+	    }, 
+    {
+	    "level": "Level 37",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Come",
+		"id": "Datang"
+	    }, 
+    {
+	    "level": "Level 38",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Compare",
+		"id": "Membandingkan"
+	    }, 
+    {
+	    "level": "Level 39",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Contain",
+		"id": "Mengandung"
+	    },
+    {
+	    "level": "Level 40",
+	    "img": "https://telegra.ph/file/2d7182f688772e1754ce0.jpg",
+		"eng": "Cook",
+		"id": "Memasak"
 	    }
 
 ] 
