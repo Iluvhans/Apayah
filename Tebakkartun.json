@@ -1,0 +1,54 @@
+[
+
+    {
+	    "level": "Level 1",
+	    "img": "https://cdns.klimg.com/merdeka.com/i/w/news/2020/08/11/1207582/content_images/670x335/20200811105215-1-kartun-keren-generasi-90an-010-kurnia-azizah.jpg",
+		"jawab": "Hamtaro" 
+	    }, 
+    {
+	    "level": "Level 2",
+	    "img": "https://www.reellifewithjane.com/wp-content/uploads/2014/05/Sailor-Moon.jpg",
+		"jawab": "Sailor Moon" 
+	    },
+    {
+	    "level": "Level 3",
+	    "img": "https://infosolution.biz/wp-content/uploads/2021/02/The_Adventures_of_Hutch_the_Honeybee.jpg",
+		"jawab": "Petualangan hachi" 
+	    },
+    {
+	    "level": "Level 4",
+	    "img": "https://cdns.klimg.com/merdeka.com/i/w/news/2020/08/11/1207582/content_images/670x335/20200811105219-1-kartun-keren-generasi-90an-009-kurnia-azizah.jpg",
+		"jawab": "Detektif Conan" 
+	    },
+    {
+	    "level": "Level 5",
+	    "img": "https://cdns.klimg.com/merdeka.com/i/w/news/2020/08/11/1207582/content_images/670x335/20200811105223-1-kartun-keren-generasi-90an-001-kurnia-azizah.jpg",
+		"jawab": "Scooby-doo" 
+	    },
+    {
+	    "level": "Level 6",
+	    "img": "https://cdns.klimg.com/merdeka.com/i/w/news/2020/08/11/1207582/content_images/670x335/20200811105228-1-kartun-keren-generasi-90an-011-kurnia-azizah.jpg",
+		"jawab": "Crayon Shin-chan" 
+	    }, 
+    {
+	    "level": "Level 7",
+	    "img": "https://i.pinimg.com/originals/3e/dd/ea/3eddeacbf34da9e5d1266c617158163a.jpg",
+		"jawab": "Astroboy" 
+	    },
+    {
+	    "level": "Level 8",
+	    "img": "https://s3-ap-southeast-1.amazonaws.com/duniaku-uploads/2018/04/1522823653-kejadian-tak-logis-di-Captain-Tsubasa-0.jpg",
+		"jawab": "Captain Tsubasa" 
+	    },
+    {
+	    "level": "Level 9",
+	    "img": "https://avatar.amuniversal.com/feature_avatars/recommendation_images/features/ga/large_rec-201701251556.jpg",
+		"jawab": "Garfield" 
+	    },
+    {
+	    "level": "Level 10",
+	    "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/12/08/762569-ninja-hattori-family.jpg",
+		"jawab": "Ninja Hatori" 
+	    }
+
+] 
